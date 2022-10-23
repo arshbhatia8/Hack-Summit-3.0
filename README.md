@@ -31,7 +31,7 @@ React
 > Present a Pie Chart denoting various fields where you have spent.
 
 ## PPT Link
-https://bit.ly/Trackify-ppt
+https://bit.ly/HackSummitPPT
 
 ## Team Members
 
