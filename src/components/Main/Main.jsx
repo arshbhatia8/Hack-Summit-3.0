@@ -15,7 +15,7 @@ const Main = () => {
 
     return (
         <Card className={classes.root}>
-            <CardHeader title="Trackify" subheader="Powered by Speechly" />
+            <CardHeader title="Trackify" subheader="Powered by Team Brute Force" />
             <CardContent>
                 <Typography align="center" variant="h5">Total balance: ${balance}</Typography>
                 <Typography variant='subtitle1' style={{ lineHeight: '1.5em', marginTop: '20px' }}>
