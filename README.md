@@ -4,7 +4,7 @@
 Try it out online: https://trackifyhacksummit.vercel.app/
 
 ## About
-Our expense tracker app will help to keep an accurate record of your money inflow and outflow. A user can either manually add their expenses in the portal or also have an option of voice recognition which will then automatically read all the expenses and add to the monthly expenses list.
+Our expense tracker app will help to keep an accurate record of your money inflow and outflow. A user can either manually add their expenses in the portal or also have an option of voice recognition which will then automatically read all the expenses and add them to the list of monthly expenses.
 
 Many people in India live on a fixed income, and they find that towards the end of the month they don't have sufficient money to meet their needs. So now, they don’t have to worry about managing their expenses, as they can get access to an expense tracker that will help in the active management of their finances.
 
